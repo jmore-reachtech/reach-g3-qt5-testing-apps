@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TrafficLight.qml</file>
+        <file>Light.qml</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
